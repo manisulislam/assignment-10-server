@@ -16,6 +16,12 @@ app.get('/programme/:id', (req, res)=>{
     console.log(req.params.id)
 })
 
+app.get('/course-details/:id', (req,res)=>{
+    const details = req.params.id;
+    const selectedNews = programme.find(n =>n.id==details)
+    res.send(selectedNews)
+})
+
 app.get('/programming-languages', (req, res)=>{
     
     res.send(programme)
