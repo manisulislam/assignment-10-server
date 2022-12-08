@@ -12,6 +12,10 @@ app.get('/', (req, res)=>{
     res.send('anis setup server side')
 })
 
+app.get('/programme/:id', (req, res)=>{
+    console.log(req.params.id)
+})
+
 app.get('/programming-languages', (req, res)=>{
     
     res.send(programme)

@@ -2,41 +2,41 @@
     {
         "id": 1,
         "title": "HTML",
-        "image": "https://ibb.co/98D1G0Q",
+        "image": "https://i.ibb.co/cgBZx94/html.png",
         "details": "C++ is a powerful general-purpose programming language. It can be used to develop operating systems, browsers, games, and so on. C++ supports different ways of programming like procedural, object-oriented, functional, and so on. This makes C++ powerful as well as flexible.C++ is used to develop games, desktop apps, operating systems, browsers, and so on because of its performance."
       
     },
     {
         "id":2,
         "title": "JAVA SCRIPT",
-        "image": "https://ibb.co/wNvMrFn",
+        "image": "https://i.ibb.co/mCx6FVn/javascript-techtalk.jpg",
         "details": "JavaScript is a cross-platform, object-oriented scripting language used to make webpages interactive (e.g., having complex animations, clickable buttons, popup menus, etc.). There are also more advanced server se versions of JavaScript such as Node.js, which allow you to add more functionality to a website than downloading files (such as realtime collaboration between multiple computers). Inse a host environment (for example, a web browser), JavaScript can be connected to the objects of its environment to prove programmatic control over them."
     },
     {
         "id": 3,
         "title": "PHYTHON",
-        "image": "https://ibb.co/S3JNyGn",
+        "image": "https://i.ibb.co/Ny7xCbj/phython.jpg",
         "details": "Python is a wely used general-purpose, high level programming language. It was created by Guo van Rossum in 1991 and further developed by the Python Software Foundation. It was designed with an emphasis on code readability, and its syntax allows programmers to express their concepts in fewer lines of code. Python is a programming language that lets you work quickly and integrate systems more efficiently"
      
 
     },
     {
         "id": 4,
-        "title": "C PROGRAMMING",
-        "image": "https://ibb.co/zS2Jsvk",
-        "details": "C is a procedural programming language. It was initially developed by Dennis Ritchie in the year 1972. It was mainly developed as a system programming language to write an operating system. The main features of the C language include low-level memory access, a simple set of keywords, and a clean style, these features make C language suitable for system programmings like an operating system or compiler development.Many later languages have borrowed syntax/features directly or indirectly from the C language. Like syntax of Java, PHP, JavaScript, and many other languages are mainly based on the C language. C++ is nearly a superset of C language (Few programs may compile in C, but not in C++). " 
+        "title": "C++ PROGRAMMING",
+        "image": "https://i.ibb.co/2s5Ks2P/c.jpg",
+        "details": "C++ is a procedural programming language. It was initially developed by Dennis Ritchie in the year 1972. It was mainly developed as a system programming language to write an operating system. The main features of the C language include low-level memory access, a simple set of keywords, and a clean style, these features make C language suitable for system programmings like an operating system or compiler development.Many later languages have borrowed syntax/features directly or indirectly from the C language. Like syntax of Java, PHP, JavaScript, and many other languages are mainly based on the C language. C++ is nearly a superset of C language (Few programs may compile in C, but not in C++). " 
         
     },
     {
         "id":5,
-        "title":"C++ PROGRAMMING",
-        "imgae": "https://ibb.co/yYVsYT5",
-        "details": "C++ is a mdle-level language rendering it the advantage of programming low-level (drivers, kernels) and even higher-level applications (games, GUI, desktop apps etc.). The basic syntax and code structure of both C and C++ are the same. C++ is a general-purpose programming language that was developed as an enhancement of the C language to include object-oriented paradigm. It is an imperative and a compiled language. "
+        "title":"C PROGRAMMING",
+        "imgae": "https://i.ibb.co/cgBZx94/html.png",
+        "details": "C is a mdle-level language rendering it the advantage of programming low-level (drivers, kernels) and even higher-level applications (games, GUI, desktop apps etc.). The basic syntax and code structure of both C and C++ are the same. C++ is a general-purpose programming language that was developed as an enhancement of the C language to include object-oriented paradigm. It is an imperative and a compiled language. "
     },
     {
         "id": 6, 
         "title": "PHP",
-        "image": "https://ibb.co/BP2WH12",
+        "image": "https://i.ibb.co/H2TwLJT/php.jpg",
         "details": "The term PHP is an acronym for PHP: Hypertext Preprocessor. PHP is a server-se scripting language designed specifically for web development. It is open-source which means it is free to download and use. It is very simple to learn and use. The files have the extension  Rasmus Lerdorf inspired the first version of PHP and participated in the later versions. It is an interpreted language and it does not require a compiler."
        
 
