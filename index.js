@@ -12,8 +12,12 @@ app.get('/', (req, res)=>{
     res.send('anis setup server side')
 })
 
-app.get('/programme/:id', (req, res)=>{
-    console.log(req.params.id)
+app.get('/side/:id', (req, res)=>{
+
+    const sideContentDetails = req.params.id;
+    const selectedItems = programme.find(n => n.id=sideContentDetails)
+    res.send(selectedItems)
+   
 })
 
 app.get('/course-details/:id', (req,res)=>{
